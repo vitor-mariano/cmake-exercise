@@ -1,0 +1,2 @@
+#define Exercise_VERSION_MAJOR @Exercise_VERSION_MAJOR@
+#define Exercise_VERSION_MINOR @Exercise_VERSION_MINOR@
